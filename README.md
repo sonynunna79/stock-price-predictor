@@ -21,4 +21,4 @@ python main.py
 - Displays graph
 
 ## 👨‍💻 Author
-Your Name
+Nunna Tanmayi Priya 
